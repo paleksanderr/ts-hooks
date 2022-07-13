@@ -1,9 +1,10 @@
-
+import UseStateComponent from "./UseStateComponent";
 
 function App() {
   return (
     <div>
-      Hello world
+      <h1>useState</h1>
+      <UseStateComponent />
     </div>
   );
 }
